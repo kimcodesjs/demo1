@@ -1,1 +1,8 @@
+# specific files
 secrets.txt
+
+# ignore folders
+secrets/
+
+# ignore files with these extensions
+*.txt
